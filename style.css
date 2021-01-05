@@ -1,0 +1,79 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+p{
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.name-color{
+    color: rgb(119, 120, 153);
+}
+
+.name-highlight{
+    color: peru;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+section{
+    height: 500px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.single-project{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100%;
+
+
+.color-highlight{
+    color: rgb(172, 54, 54);
+}
+
+#power-x{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#creative-ag{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+
+#rock-music{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
