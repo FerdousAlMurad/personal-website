@@ -49,31 +49,38 @@ section{
     color: white;
     font-weight: 700;
 }
+.color-highlight{
+    color: rgba(240, 128, 128, 0.973);
+}
 
 .single-project{
     box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
+    border-radius: 20px;
+    height: 78%;
+    width: 25%;
+}
+
+footer p{
+    text-align: center;
+    font-size: 10px;
+
+}
+
+footer h3{
+    text-align: center;
+}
+
+.work-shape{
+    background-image: url("shapes/Group_33094_1.png");
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: center;
     height: 100%;
-
-
-.color-highlight{
-    color: rgb(172, 54, 54);
+    width: 100%;
+}
+.working-part{
+    background-color: whitesmoke;
+    
 }
 
-#power-x{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
-    border-image-slice: 1;
-}
 
-#creative-ag{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
-}
-
-#rock-music{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
-}
