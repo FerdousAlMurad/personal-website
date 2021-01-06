@@ -13,6 +13,7 @@ h1{
 
 h2{
     font-size: 40px;
+    text-align: center;
 }
 
 h3{
@@ -77,10 +78,20 @@ footer h3{
     background-position: center;
     height: 100%;
     width: 100%;
+    padding-top: 100px;
+
+
 }
 .working-part{
     background-color: whitesmoke;
+    margin: 100px;
+    padding: 50px;
     
 }
 
+.chat-with{
+    float:right;
+    margin-right: 20%;
+    padding: 1%;
+}
 
